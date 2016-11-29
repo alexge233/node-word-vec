@@ -1,0 +1,7 @@
+{
+    "name" : "word_vec",
+    "version": "0.0.1",
+    "main": "./build/Release/word_vec",
+    "description": "word-vectoring using semantics and statistics",
+    "license": "LGPL 2.1"
+}

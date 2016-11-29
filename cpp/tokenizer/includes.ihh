@@ -1,0 +1,6 @@
+#include <string>
+#include <iostream>
+#include <sstream>
+
+#include "../tagger/la_pos.hpp"
+#include "../data/data.hpp"
