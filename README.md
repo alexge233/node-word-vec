@@ -12,5 +12,4 @@ the sparse vectors.
 
 ## what is it for?
 
-Anybody interested in NLP, semantic analysis and word vectoring.
-
+Anybody interested in NLP, semantic analysis and word vectoring, as well as classification.
